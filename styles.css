@@ -1,0 +1,22 @@
+body {
+  background-color: powderblue;
+  max-width: 500px;
+  margin: auto;
+}
+h1 {
+	text-align:center;
+	color: blue;
+}
+p {
+  color: red;
+}
+button{
+  font-size: 20;
+  height:60px;
+  width: 80px;
+ }
+.button {
+  transition-duration: 0.4s;
+	height:40;
+
+}
